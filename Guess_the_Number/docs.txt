@@ -1,0 +1,7 @@
+GUESS_THE_NUMBER 
+The code is written in java language.
+It is a simple guessing game where the user attempts to guess a randomly generated number between 0 and 100. 
+It utilizes the java.util.Scanner class to take user input for guesses, allowing them to quit the game by entering a negative number. 
+The program runs in a loop until the user correctly guesses the random number or chooses to quit. 
+It provides feedback to the user, indicating whether their guess is higher or lower than the target number. 
+Once the user guesses correctly or quits, the game terminates, making it an engaging and interactive console-based guessing game.
