@@ -1,0 +1,3 @@
+This is a contact us form with a very simple interface.
+This is a small project based on basic front end development.
+HTML and CSS are the only languages used.
